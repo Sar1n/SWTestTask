@@ -1,1 +1,1 @@
-# SmartwyreTestTask
+# SWTestTask
